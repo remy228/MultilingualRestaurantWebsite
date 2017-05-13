@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: proj\n"
+"POT-Creation-Date: 2016-05-16 17:53-0700\n"
+"PO-Revision-Date: 2016-05-16 17:54-0700\n"
+"Last-Translator: \n"
+"Language-Team: team <team@gmail.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ../../../../xampp/htdocs/Hw5/src/view\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;gettext\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: loginView.php:28
+msgid "Username:"
+msgstr "Nom d’utilisateur :"
+
+#: loginView.php:30
+msgid "Password:"
+msgstr "Mot de passe :"
+
+#: menuDataView.php:32
+msgid "Menu Special"
+msgstr "Menu spécial"
+
+#: menuView.php:29
+msgid "Weekly Specials"
+msgstr "Promotions hebdomadaires"
+
+#: menuView.php:30 rewardsView.php:27
+msgid "Back"
+msgstr "Arrière"
+
+#: menuView.php:33
+msgid "French Jam Crepe"
+msgstr "Français Jam Crêpe"
+
+#: menuView.php:38
+msgid "Norwegian Bagel"
+msgstr "Bagel norvégien"
+
+#: menuView.php:43
+msgid "Grilled Fillet Chicken"
+msgstr "Filet de poulet"
+
+#: menuView.php:48
+msgid "Smoked Salmon Omelette"
+msgstr "Fumé Omelette au saumon"
+
+#: menuView.php:53
+msgid "Mushroom Quiche"
+msgstr "Mushroom Quiche"
+
+#: restaurantView.php:31
+msgid "AMOUNT"
+msgstr "MONTANT"
+
+#: restaurantView.php:41
+msgid "On The Edge"
+msgstr "Sur le bord"
+
+#: restaurantView.php:42
+msgid "820 E El Camino Real, Mountain View, CA 94040"
+msgstr "820 E El Camino Real, Mountain View, CA 94040"
+
+#: restaurantView.php:44
+msgid "Monday to Friday:"
+msgstr "Lundi à vendredi:"
+
+#: restaurantView.php:45
+msgid "Lunch 11:00 am to 3:00 pm"
+msgstr "Déjeuner 11h00-à-15h00"
+
+#: restaurantView.php:46
+msgid "Dinner 5:00 pm to 10.00 pm"
+msgstr "Dîner 17:00-22:00"
+
+#: restaurantView.php:47
+msgid "Saturday & Sunday:"
+msgstr "Samedi Dimanche:"
+
+#: restaurantView.php:48
+msgid "11:00 am 10.00 pm"
+msgstr "11:00 22:00"
+
+#: restaurantView.php:52
+msgid "Select a different language:"
+msgstr "Sélectionnez une autre langue :"
+
+#: rewardsView.php:30
+msgid "E-mail:"
+msgstr "e-mail"
+
+#: rewardsView.php:33
+msgid "Rewards Balance"
+msgstr "Récompenses Solde"
+
+#: rewardsView.php:34
+msgid "Rewards Coupon"
+msgstr "Récompenses Coupon"
+
+#: selectView.php:23
+msgid "You are now Logged in."
+msgstr "Vous êtes maintenant connecté."
+
+#: selectView.php:23
+msgid " Hello Admin!"
+msgstr "Bonjour admin !"
+
+#: selectView.php:28
+msgid "Menu specials"
+msgstr "Promotions hebdomadaires"
+
+#: selectView.php:29
+msgid "Add a receipt"
+msgstr "Ajouter un reçu"
